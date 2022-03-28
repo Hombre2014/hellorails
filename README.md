@@ -16,8 +16,8 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 ## Usage
 
 Run the following commands:
-`git clone https://github.com/Hombre2014/Hello-rails.git`
-`cd Hello-rails`
+`git clone https://github.com/Hombre2014/hellorails.git`
+`cd hellorails`
 `bundle install`
 `rails s`
 Open a browser and go to: `https://localhost:3000` to view the app.
@@ -34,7 +34,7 @@ Open a browser and go to: `https://localhost:3000` to view the app.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/Hello-rails/issues).
+Feel free to check the [issues page](https://github.com/Hombre2014/hellorails/issues).
 
 ## Show your support
 
