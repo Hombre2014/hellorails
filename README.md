@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+b![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # My first Rails App
 
@@ -15,11 +15,11 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 
 ## Usage
 
-Run the following commands:
-`git clone https://github.com/Hombre2014/hellorails.git`
-`cd hellorails`
-`bundle install`
-`rails s`
+Run the following commands:</br>
+`git clone https://github.com/Hombre2014/hellorails.git`</br>
+`cd hellorails`</br>
+`bundle install`</br>
+`rails s`</br>
 Open a browser and go to: `https://localhost:3000` to view the app.
 
 ## Author
