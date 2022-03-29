@@ -1,5 +1,4 @@
-b![](https://img.shields.io/badge/Microverse-blueviolet)
-
+![](https://img.shields.io/badge/Microverse-blueviolet
 # My first Rails App
 
 > Hello Rails App.
